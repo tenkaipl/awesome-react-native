@@ -698,6 +698,7 @@ Components and native modules.
 * [react-native-blur-overlay ★5](https://github.com/lvlrSajjad/react-native-blur-overlay) - React Native Blur Overlay Library For Ios And Android
 * [react-native-rate-modal ★5](https://github.com/omergulen/react-native-rate-modal) - Hackable "rate us" component for React Native.
 * [react-native-fancy-carousel-viewpager ★4](https://github.com/lvlrSajjad/react-native-fancy-carousel-viewpager) - React Native Designed View Pager Library (pure js)
+* [react-native-select *5](https://github.com/tenkaipl/react-native-select) - A fully customizable select/dropdown for React Native, inspired by react-select. Native-first handling of ScrollView, Modal, keyboard, and SafeArea. Pure JS, works with Expo and bare React Native.
 * [pinar ★4](https://github.com/kristerkari/pinar) - Customizable, lightweight React Native carousel component with accessibility support.
 * [react-native-svg-transformer ★4](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files inside React Native components. Uses the react-native-svg library to render SVG images.
 * [react-native-progress-steps ★4](https://github.com/colbymillerdev/react-native-progress-steps) - A simple and fully customizable React Native component that implements a progress stepper UI.
